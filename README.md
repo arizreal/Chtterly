@@ -1,2 +1,0 @@
-# Chtterly
-Chat with fun
